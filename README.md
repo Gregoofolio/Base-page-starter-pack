@@ -2,7 +2,7 @@
 
 This is my very basic template for new webpages.
 
-## Included:
+### Included:
 * bootstrap grid only,
 * jquery,
 * sass files organization,
