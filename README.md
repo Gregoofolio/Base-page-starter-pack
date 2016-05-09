@@ -1,4 +1,11 @@
 # Base-page-starter-pack
 
 This is my very basic template for new webpages.
-Included only bootstrap grid, jquery, sass files organization and base index.html file
+
+## Included:
+* bootstrap grid only,
+* jquery,
+* sass files organization,
+* base index.html file
+* fontawesome
+* normalize.css
